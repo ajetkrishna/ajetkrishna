@@ -1,7 +1,7 @@
 # 👨‍💻About me
 - 👋 Hi, I’m Krishna Teja Reddy
-- 👀 I’m interested in MATLAB, Simulink, Automative Software and Security
-- 🌱 I’m currently learning Cloud Computing
+- 👀 I’m interested in MATLAB, Simulink, Automotive Software and Security
+- 🌱 I’m currently learning Cloud Computing, Cloud Infrastructure
 - 💞️ I’m looking to collaborate on MATLAB, Targetlink, MBSD
 - 📫 How to reach me ...stay tuned !!
 
